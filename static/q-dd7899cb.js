@@ -1,0 +1,1 @@
+import{d as r,K as t}from"./q-babceb26.js";import{k as i}from"./q-46ad7b8f.js";import"./q-6b8e21d1.js";const n=e=>r("div",null,{class:t(s=>["tetris-keys-group-item",{"tetris-keys-group-item-pressed":s.pressedKeyIndex.value===s.index}],[e])},i[e.index](),1,"0J_0");export{n as s_UXHSqAStIeU};
